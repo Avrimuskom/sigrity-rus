@@ -1,0 +1,5 @@
+Разделы:
+Shared Tcl Commands
+Tcl Commands
+PowerSI Tcl Commands
+O:\Cadence\Sigrity2023.1\doc >> введите в поиске файлов внутри каталога строку tcl.html для вывода отсева мусора

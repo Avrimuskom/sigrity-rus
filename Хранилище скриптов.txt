@@ -1,0 +1,3 @@
+O:\Cadence\Sigrity2023.1\share\library\python\tcl
+O:\Cadence\Sigrity2023.1\share\library\script
+O:\Cadence\Sigrity2023.1\share\library\tcl
