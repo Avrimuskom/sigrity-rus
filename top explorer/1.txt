@@ -1,0 +1,30 @@
+Gauss
+#F1
+editBlock {Vs1}  -parameter [list InitValue 1.025] -interactive
+editBlock {Vs1}  -parameter [list PeakValue 1.975] -interactive
+editBlock {Vs1}  -parameter [list GaussPulseWidth 200p] -interactive
+editBlock {Vs1}  -parameter [list GaussPeriod 200p] -interactive
+
+
+
+Pulse
+#f1
+editBlock {Vs1}  -parameter [list InitValue 1.024] -interactive
+#f2
+editBlock {Vs1}  -parameter [list PeakValue 1.375] -interactive
+#F3
+editBlock {Vs1}  -parameter [list Delay 1.4n] -interactive
+#f4
+editBlock {Vs1}  -parameter [list RiseTime 200p] -interactive
+#f5
+editBlock {Vs1}  -parameter [list FallTime 200p] -interactive
+#f6
+editBlock {Vs1}  -parameter [list PulsePulseWidth 4n] -interactive
+#f7
+editBlock {Vs1}  -parameter [list PulsePeriod 8n] -interactive
+
+Выбор и удаление генератора
+selectObject -occPath @worklib.diff_pair(tbl_1):page(1) -type GRAPHIC_BLOCK 8218 8467
+delete
+
+Копирование о
