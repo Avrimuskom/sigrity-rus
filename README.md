@@ -23,4 +23,3 @@ https://github.com/Avrimuskom/sigrity-rus
 
 Связь со мной:
 avrimuskom@gmail.com
-телега:https://t.me/Kotvsapogah77
